@@ -1,0 +1,13 @@
+timestamp,user,role,department,patient_department,patient_id,action,location,status
+2026-06-13 02:14,jane.nurse,Nurse,Cardiology,Cardiology,P1023,VIEW,Colombo,SUCCESS
+2026-06-13 02:20,jane.nurse,Nurse,Cardiology,Cardiology,P2044,VIEW,Colombo,SUCCESS
+2026-06-13 02:25,jane.nurse,Nurse,Cardiology,Cardiology,P8765,VIEW,Colombo,SUCCESS
+2026-06-13 02:30,jane.nurse,Nurse,Cardiology,Cardiology,P5521,VIEW,Colombo,SUCCESS
+2026-06-13 02:35,jane.nurse,Nurse,Cardiology,Cardiology,P9844,VIEW,Colombo,SUCCESS
+2026-06-13 03:01,john.admin,Admin,IT,Oncology,P1001,EXPORT,Unknown,SUCCESS
+2026-06-13 11:15,mary.doctor,Doctor,Oncology,Oncology,P7788,VIEW,Colombo,SUCCESS
+2026-06-13 12:05,kevin.staff,Staff,Billing,Neurology,P8891,VIEW,Kandy,SUCCESS
+2026-06-13 22:45,alex.temp,Temp,Reception,Cardiology,P3201,DOWNLOAD,Unknown,SUCCESS
+2026-06-13 09:00,unknown.user,Unknown,Unknown,Oncology,P9011,LOGIN,Unknown,FAILED
+2026-06-13 09:01,unknown.user,Unknown,Unknown,Oncology,P9011,LOGIN,Unknown,FAILED
+2026-06-13 09:02,unknown.user,Unknown,Unknown,Oncology,P9011,LOGIN,Unknown,FAILED
